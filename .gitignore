@@ -1,4 +1,6 @@
 *.csv
+.DS_Store
 mesowest
 ncdc
+.xlsx
 .ipynb_checkpoints
